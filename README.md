@@ -136,11 +136,6 @@ data/
 # Train on NWPU VHR-10-Split
 python tools/train.py
 
-# Train on DOTAv1.5-Split
-python tools/train.py
-
-# Train on HRSSD-Split
-python tools/train.py
 ```
 
 
@@ -154,15 +149,6 @@ python tools/train.py
 python tools/test.py
 ```
 
-### Visualize Detection Results
-
-```bash
-python tools/analysis_tools/analyze_results.py \
-    configs/sdconet/sdconet_swin-t_nwpu.py \
-    results/sdconet_nwpu.pkl \
-    results/visualization \
-    --show
-```
 
 ## 🔬 Visualization
 
@@ -223,7 +209,6 @@ We thank the authors for their excellent work.
 For any questions, please contact:
 
 - **Ruo Qi**: qiruo2023@email.szu.edu.cn
-- **Linhui Dai** (Corresponding Author): dailinhui@szu.edu.cn
 
 ---
 
