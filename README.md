@@ -12,9 +12,6 @@
 
 **[Ruo Qi](mailto:qiruo2023@email.szu.edu.cn), [Linhui Dai*](mailto:dailinhui@szu.edu.cn), Yusong Qin, Chaolei Yang, Yanshan Li**
 
-*1. Institute of Intelligent Information Processing, Shenzhen University, Shenzhen, China*
-*2. Guangdong Provincial Key Laboratory of Intelligent Information Processing, Shenzhen University, Shenzhen, China*
-*3.Shenzhen Key Laboratory of Modern Communications and Information Processing, Shenzhen University, Shenzhen, China*
 
 </div>
 
