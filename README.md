@@ -4,7 +4,6 @@
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/Paper-IEEE-blue)](https://github.com/qiruo-ya/SDCoNet)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-green.svg)](https://www.python.org/)
 [![PyTorch 1.10+](https://img.shields.io/badge/PyTorch-1.10+-orange.svg)](https://pytorch.org/)
 [![MMDetection](https://img.shields.io/badge/MMDetection-3.0+-red.svg)](https://github.com/open-mmlab/mmdetection)
