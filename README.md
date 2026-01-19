@@ -179,10 +179,10 @@ Recommended: Save as 'assets/feature_maps.png'
 If you find this work useful in your research, please consider citing:
 
 ```bibtex
-@article{qi2025sdconet,
+@article{qi2026sdconet,
   title={SDCoNet: Saliency-Driven Multi-Task Collaborative Network for Remote Sensing Object Detection},
   author={Qi, Ruo and Dai, Linhui and Qin, Yusong and Yang, Chaolei and Li, Yanshan},
-  year={2025},
+  year={2026},
 }
 ```
 
